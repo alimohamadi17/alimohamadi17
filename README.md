@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ArioEntertainment
 - 🌱 I’m currently learning ...
--  I’m looking to collaborate on big company
-- ⚡ Fun fact: react js very good
+-  I’m looking to collaborate with a big company
+- ⚡ Fun fact: eager to learn new things
 
